@@ -41,7 +41,7 @@ target_link_libraries(${PROJECT_NAME} PRIVATE exe_path::exe_path)
 
 ## Automatically copying assets to your executable's directory
 
-Consider using [CMakeUtils](https://github.com/CoolLibs/CMakeUtils).
+Consider using [CMakeUtils](https://github.com/Coollab-Art/CMakeUtils).
 
 ## Running the tests
 
